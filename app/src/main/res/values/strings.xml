@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Mohsen_project</string>
+    <string name="button_beginner">Beginner</string>
+    <string name="button_experienced">Experienced</string>
+    <string name="button_Beginner">Beginner</string>
+    <string name="button_send">send</string>
+    <string name="button_beep">BEEP</string>
+    <string name="msg">Enter you message</string>
+    <string name="msg2">touch or hold the button to play the sound !!!</string>
+</resources>
